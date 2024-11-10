@@ -1,4 +1,4 @@
-package pbosem5.pertemuan2;
+package pbosem5.pertemuan1;
 
 import java.util.Scanner;
 

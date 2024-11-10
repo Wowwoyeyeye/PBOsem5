@@ -1,4 +1,4 @@
-package pbosem5.pertemuan3;
+package pbosem5.pertemuan2;
 
 public class TampilMahasiswa {
   public static void main(String[] args) {

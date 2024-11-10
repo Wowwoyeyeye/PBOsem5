@@ -1,4 +1,4 @@
-package pbosem5.pertemuan2;
+package pbosem5.pertemuan1;
 
 public class main {
     public static void main(String[] args) {

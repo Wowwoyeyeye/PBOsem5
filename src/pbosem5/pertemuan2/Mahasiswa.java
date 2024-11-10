@@ -1,4 +1,4 @@
-package pbosem5.pertemuan3;
+package pbosem5.pertemuan2;
 
 public class Mahasiswa {
   public int nim;
